@@ -1,0 +1,15 @@
+total 22
+drwxr-xr-x 1 Dell 197609   0 Mar  8 12:19 .
+drwxr-xr-x 1 Dell 197609   0 Mar  8 11:51 ..
+-rwxr-xr-x 1 Dell 197609  34 Mar  8 11:51 0-hello_world
+-rwxr-xr-x 1 Dell 197609  30 Mar  8 11:51 1-confused_smiley
+-rwxr-xr-x 1 Dell 197609  30 Mar  8 11:51 2-hellofile
+-rwxr-xr-x 1 Dell 197609  41 Mar  8 11:51 3-twofiles
+-rwxr-xr-x 1 Dell 197609  37 Mar  8 11:51 4-lastlines
+-rwxr-xr-x 1 Dell 197609  37 Mar  8 11:51 5-firstlines
+-rwxr-xr-x 1 Dell 197609  42 Mar  8 11:51 6-third_line
+-rwxr-xr-x 1 Dell 197609  72 Mar  8 12:15 7-file
+-rwxr-xr-x 1 Dell 197609  36 Mar  8 12:19 8-cwd_state
+-rw-r--r-- 1 Dell 197609 815 Mar  8 11:51 iacta
+-rw-r--r-- 1 Dell 197609   0 Mar  8 12:19 ls_cwd_content
+-rw-r--r-- 1 Dell 197609  37 Mar  8 11:51 README.md
